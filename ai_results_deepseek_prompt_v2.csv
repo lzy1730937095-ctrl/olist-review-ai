@@ -1,0 +1,116 @@
+idx,review_id,order_id,review_score,review_comment_message,gold_labels,ai_labels,ai_reason
+1,8635a09606e99530186ef0fc118bf2c9,045eff272f42f0ae0191149686f193e1,1,n chegou,1,1,评论说没有收到货，属于未收到
+2,b1215b7be082fef3dd617160eeb991d5,314bb8fdc89b0dafae07549f10aaa5e0,1,Um dos relogios veio aberto sem tampa e sem funcionar não recomendo a ninguem essa empresa,5,"2,5",其中一个手表到货时是打开的且缺少盖子，并且无法正常工作，属于缺少部件和商品缺陷
+3,c0beae1b6eb28a8f3f7d72771b68b97f,e61fcab8b96de0335adf7fd562ebb869,2,"O produto chegou em 2 entregas, só que bem mal embalado, sem aviso de frágil, num papel pardo. Entregaram 2 pacotes em um dia e um pacote no outro. Pacote amassado nas pontas, peças quebradas. Absurdo",6,6,评论抱怨包装很差、无易碎标识，包裹边角压坏且部件破碎，属于运输破损/包装问题
+4,4fd3d9be6e354b0ffc52f94594ea9758,93aa3d58f7f2a97010801f8ff8dc45a5,1,Ao invés de vocês se preocuparem em resolver o problema da entrega do produto. Ficam enchendo o saco com avaliação.Comprei o produto no dia 29/04/2018 para ser entregue no dia 15/05/2018. Atéagoranada,1,"1,7",订单超过预计送达日期仍未收到，且客服不解决配送问题反而催评价，属于未收到/送达延迟和客服售后问题
+5,f5baab6749daffff9b27b4c2d845f49a,5f0b8b7a4106112072d89904b2d237e1,1,Estou aguardando entrega meu produto desde o dia 27/03 ate momento não recebi ... ,1,1,从3月27日起等待配送，至今仍未收到商品，属于未收到/送达延迟
+6,3215ca1218d0d9a572936de754d8cfce,ac9394e6566c5245be91e3dd87c8d5e9,1,"Mais de vinte três (23) dias que comprei um produto e ele não chega, passou até mesma a previsão.",1,1,购买超过23天仍未收到商品，且已超过预计送达时间，属于未收到或送达延迟
+7,85084e89f43bd61448344bfc40300429,4438006ddb5015b3c15d1d5e6c83c80b,2,"o problema na entrega do meu produto está sendo a greve dos correios, portanto nao posso ser injusta em nao recomendar a loja.",1,1,评论提到因邮政罢工导致商品配送出现问题，属于送达延迟/配送问题
+8,d63c849ea6d81cf7cf064aa752c60528,f8470371533c258e0a16d3406dd43859,1,"O produto não aquece. O deixei ligado por uma hora e colocando a mão sobre os fios consegue até senti-lo morno, com um lençol sobre ele, não dá para sentir nada.
+Já notifiquei a lannister.
+",5,5,商品无法加热、效果差，属于商品缺陷；只是通知了卖家，未提及售后失败或拖延，不标客服问题
+9,b36def3bfc330c52ab60c5e205dea395,7b9d2b13802cfc504efc515be768ee0f,2,"Ainda falta entregar uma colcha de cama de casal.
+um dos jogos de lençol não foi o mesmo que escolhi.","2,3","2,3",还缺一件双人床被套未送达，且其中一套床单不是所选的款式，属于少发和发错货
+10,5702abbffd4c509607aaf228d528a1f2,3b71ec8ef75f62e3cebce5c907d0919f,1,"Quando fiz a compra, solicitei o cancelamento pq comprei o produto errado, mas mesmo assim foi entregue.
+Resolvi então ficar com ele mesmo assim, MAS NÃO FUNCIONA","5,7","7,5",申请取消订单后仍被配送，且商品无法使用，属于取消/售后失败和商品缺陷
+11,251d78e9576363b2bc5fa561f389fa89,7701ecd93e987006334fba168c936f20,2,"Infelizmente entrega ainda não efetuada, ainda aguardando para que eu possa testar então dar minha opinião. ",1,1,评论表示尚未收到货，仍在等待配送，属于未收到或送达延迟
+12,d825c774380ba364bf48d9d8e0ff3f42,cb78dafa7c2ca5d9eafdc6f02cd4f3b7,1,"fiz uma compra de duas garrafas super caras, recebi apenas uma. e o principal o filtro de quase 600,00 reais não vieram estar no meu e-mail como entregue. so tento recebido uma garrafa. gostaria resp.",2,2,订单包含两瓶和过滤器，但只收到一瓶，属于少发/漏发。
+13,cd57e2971b81c796536cefb187a26631,0e3bb5bc8f2262c9fc302e56de5b7c48,1,"pela segunda vez aconteceu problema em compra via internet. Primeiro foi com um climatizador que me mendaram com voltagem divergente.
+Agora com pedido feito na segunda semana de março e aainda nao en",1,1,当前订单在三月初下单至今仍未送达；之前空调电压不符是过去订单，不计入
+14,da09d3e68abca336b2b79578bbb8cba4,a04b5357c7eb10bccebd46d6d051e8b0,1,Fiz compra de dois itens porém só um foi entregue . Estou aguardando retorno do vendedor e ate o momento nada. Estou tendo muita dificuldades no contato e o processo já foi ffinalizado .,"2,7","2,7",购买两件只收到一件，属于少发；联系卖家困难且流程已结束仍无回应，属于客服/售后问题。
+15,a9e43c08d57ccef13fd3274a8a81f190,b9b426ab253dc328825da35f1bad83f9,1,"Relógio com ferrugem na caixa
+",5,5,手表有锈迹，属于商品缺陷
+16,138dadf93f94252cab273cfdca784790,e6e2049ec5847e14fd9898496125c8b9,1,Não entregaram ainda já ser passou da data de entrega.,1,1,已过预计送达日期仍未收到货，属于送达延迟
+17,f9e6a5898603e98f50f91be21bb5e384,5839a2f55ef25b35fe1f167612acf405,1,mousse não faz espuma deve estar com problema como faço pra trocar. Nao compre se nao trocarem o meu ,5,5,商品无法打出泡沫，用户怀疑有质量问题并询问如何换货，属于商品缺陷；未明确售后失败或拖延。
+18,4dd68a0dee5ede8a445f797c46bca436,ac706ac9421036e88d5b2c96b058aba6,1,o acabento que estava na foto era bonito a que chegou foi de um sintetico feio com um acabento todo borrado orrivel nao gostei,4,4,收到的商品材质和外观与照片不符，属于与描述不符
+19,4eb848c0624f12e5a88f77ef43a4411c,e8c1420ad4481bb6f18daf1e95ae97a1,1,Produto entregue não foi o mesmo do pedido.,3,3,收到的商品与订单不符，属于发错货
+20,9308d1a45a9b9c5402e9d817445eec7f,09d49d145e25e27490765a4085a8e720,2,"Equipe lannister recebi o produto incompleto, ou seja, está faltando uma mochila Barbie Grande. 
+lannister tive que retirar a mercadoria incompleta na lojas do correios.
+
+Atenciosamente.",2,2,收到商品不完整，缺少一个Barbie Grande背包，属于少发/漏发
+21,ad8841193a8eba9e94e72f35cca38922,9ddce686be2661872d8a63788bd96cbe,1,"Cadeira veio faltando peças, parafusos do acento e tampinhas dos tubos laterais.",2,2,椅子到货时缺少座垫螺丝和侧管盖等部件，属于少发/漏发
+22,7349804004f7177a09304128b2dc4f6a,a076e6a3d1401e58c8b6ced4d0d23225,1,ESTOU MUITO INSATISFEITO COM A COMPRA PORQUE ATE AGORA NÃO RECEBI E NEM NOTA FISCAL FOI ENVIADA PARA MIM. JÁ TEM QUASE UM MÊS QUE FOI FEITA A COMPRA. NÃO RECOMENDO. ,1,"1,8",购买近一个月仍未收到商品，属于未收到/送达延迟；同时未收到发票，属于其他问题
+23,ee2198919fc8e34a16c6bc45cbab40c9,9f0b93157ce9331253cad4298ce6af61,1,"Infelizmente o meu quadro veio com a moldura quebrada, danificando a tela. Deu trabalho para concertar ",6,6,收到的画框破损并损坏了屏幕，属于运输破损/包装问题
+24,775c3bf98315bdddc4df1379632ce717,05aacaaec38544ee11d42a69bc098d4b,1,sem palavra pra descrever,8,8,评论只说“无法用语言形容”，没有说明具体问题，属于其他
+25,0f36bffc2db642b888e7e9b9d4c857fd,9edbcf5056f3301b0fcaf1dfe914873c,2,"A entrega teve 3 dias de atraso conforme a previsão. Não recomendaria porque o pedido foi feito dia 21/12/2017 e só recebi dia 20/01/2018, ou seja, 30 dias. Acho que a espera foi muito longa.",1,1,用户抱怨配送延迟，等待时间过长，属于送达延迟
+26,5468015c5083e6d6f3c9e3f8b196cd52,8124e0a6295df5f9ce4377ca0a8e0c18,1,"Era pra ter chego até o dia 06/06/2018, já fui no Correios e nao esta la. ",1,1,预计6月6日前送达，但去邮局也没有收到，属于未收到或送达延迟。
+27,4ae065a9ed27676994e75f0f0f3bab4c,42b4cc626bcba589ae76151155a70a19,2,"O produto adquirido não pode ser utilizado, o mesmo apresentou problemas de montagem, Aguardando a troca do produto.....",5,5,商品无法使用且存在组装问题，属于商品缺陷；换货正在等待处理，不另标售后问题
+28,e4a1e5cedf808dbf08a5c2b96454b7f9,94fcdee942970d335d394f37a3b23ada,1,Não tenho nem o que opinar! Não recebi o objeto comprado.,1,1,评论表示没有收到购买的商品，属于未收到货
+29,8b350f59e2c0ab921ad9cd8ec0c5a127,97ef2707f46b7d685e1da2b0c67be7fd,1,"Sempre comprei no stark e a entrega sempre foi rápida, mas agora este produto não foi entregue.",1,1,当前订单商品未送达，属于未收到/送达延迟
+30,915ffc387c38352abf67372fa1db8a4b,0d4705a6e6fc84a31808604039a41807,2,"Recebi o produto errado em minha casa. Já entrei em contato com a baratheon para fazer a troca do produto, a qual falou que em 48h a loja entraria em contato e amanhã vence as 48h ",3,3,收到的商品与订单不符，属于发错货；退换货仍在承诺的48小时内处理中，未体现售后失败或拖延。
+31,26ee133126d04cf77e2b598c38a82ae9,362aa88dd1265e7b4ea491b5836fb5f6,1,Na descrição dizia kit grupo shimano claris pois k7 veio san Reis e correte nem sei a marca cubos sabe Deus acho que é o mais vagabundo .,4,4,评论称描述写的是Shimano Claris套件，但收到的飞轮、链条、花鼓等是其他或低端品牌，属于商品与描述不符。
+32,0451f9bf5286e1588b0f7475b6fe7488,f637db9f107a517712822ef3c44024aa,1,Não recomendo a loja.,8,8,评论只说不再推荐该店铺，没有说明具体问题，归为其他
+33,f3675fbbe2330758167467391c52618a,afc2b80ab67a5a0cf0d36422cd6409eb,1,Estou aguardando uma posição da loja em relação a disponibilidade do produto,8,8,评论仅表示在等待店铺回复商品是否有货，未说明具体物流、商品或售后问题
+34,62fc4a26d6a47c33586e4aebe50f833a,ff71fa43cf5b726cd4a5763c7d819a35,1,"Após transtornos com a primeira compra recebi um vale da loja para que outra compra fosse realizada com o valor, porém, no segundo pedido com o valor do vale houve um problema no pagamento ",7,7,使用店铺代金券下的第二笔订单出现支付问题，属于代金券/售后处理失败
+35,0735b219f9537d2fbc80cc75d12d7c56,2a7c1794496ea317e6f88363616ad9e2,2,O produto era pra ser entregue até 23/01 e até o momento (03/02) ainda não recebi.,1,1,商品原定1月23日前送达，但直到2月3日仍未收到，属于未收到/送达延迟
+36,71d3388f71d75c44554318cfd5c4e34c,777f517b51cac586a9532d1d8b596c10,2,"Apesar de estar dentro do prazo prometido, demorou quase 3 semanas para chegar. Prazo muito além do praticado no mercado.",1,1,虽然仍在承诺期限内，但配送耗时近三周，用户抱怨送达太慢
+37,2096cbc5d9109b94efccc8fcde194bc4,d6cae08d072e981cb8ff02592b04985b,2,Mto demorado,1,1,评论抱怨配送非常慢，属于送达延迟
+38,2708b1adb1f115fa8bc46c09adc07b3d,ae3818a9067c10088e84a13bceaa9b68,1,"Estou aguardando entrega do uns 2 meses, ainda me envia email perguntado o recebimento, caso nos nao respondemos , sera considerado entregue.",1,1,用户等待约2个月仍未收到商品，属于送达延迟/未收到
+39,6f47e53efeab4be95bc991fbf9d54795,9ea6d21c1c1b510f96f7917419175197,1,"O produto demorou muito a chegar,e a vasilha de colocar ração veio um pouco amassada,","1,6","1,6",商品到货很慢，且装饲料的容器到货时有些压瘪，属于送达延迟和运输破损
+40,a6701394a00cf127b658a03407ce0649,722472fb65236469ae8a7934269a980f,2,Comprei o produto anunciado e me entregaram outro. Aguardando correção por parte da loja.,3,3,购买的是页面宣传的商品，却收到了另一件商品，属于发错货
+41,574eb8fce37a82e08574336beddd2d2c,224a57164e7d58e7d551cdc70d6d902d,1,Não recebi o produto,1,1,用户表示没有收到商品，属于未收到/送达延迟
+42,514be3a1ed23fb15ee42bd6b0ac8e6bb,77f0ae10c13cc7c78a5393b27d121044,1,"Não recebi o item que já contava como cancelado no momento que consultava meus pedidos.
+Não obtive nenhuma resposta às mensagens enviadas","1,7","1,7",未收到商品（订单显示已取消），且发送的消息无人回复，属于未收到和客服问题
+43,4417114efd51bb3e0732dc33f35742b6,fa0705d5bfc72c07badff6fcffd697f6,2,o produto é bom especificado no sait otimo só nao recomendo porque no sait falava que entregaria em 15 dias levou 30 dias para chegar afff a boneca é bonita amei otimo tecido nota geral 10 do produto.,1,1,网站承诺15天送达但实际30天才到，属于送达延迟
+44,736270382ae8498f9230f893d0e8f4fc,866314550f6d7a55c82917d9b4463e1f,1,Produto comprado e pago dia 17/11/2017 com previsão de entrega até 15/12. Mas nada! ,1,1,已付款且超过预计送达日期仍未收到商品，属于未收到/送达延迟
+45,bc497e5d264db7eb267190c6fecb955d,5f81f8debb479300dc3ae13616afb823,1,Não entregar na data marcada e nem justificar é desrespeito! O boleto foi pago na data. Portanto ...,1,1,用户抱怨未按约定日期送达且未说明原因，属于送达延迟
+46,598fa9bcc04d9747eacf69671e2afb87,9c5e59d13402e43348641c0293487f76,2,"Comprei uma fantasia para meu sobrinho,Batman pop tamanho 3/4 anos. No pacote diz que vem com fantasia curta,capa e máscara. Acontece que a máscara não veio!! ",2,2,商品包装说明包含短款服装、披风和面具，但收到的订单缺少面具，属于漏发部件
+47,8aa101f4dab5e21d5e9dc9a0471630d3,52c1dd5de2f994e2979bb421330763ad,1,eu sempre comprei na lannister e sempre recebi na data certa mais esse ano estou vendo que minha filha vai ficar sem o presente do papai noel vou espera ate quinta dia 21 se nao vou cancelar .,1,1,用户抱怨今年订单可能赶不上圣诞礼物送达时间，属于送达延迟/未按时收到。
+48,fb1321b312a6afbf2fb5d308d66dca71,bf9b9000c617c6eb39e6666c98f7493d,2,"É MUITO CHATO, QUANDO RECEBEMOS UM PRODUTO FORA DA DATA MARCADA PARA RECEBER E PRA PIORAR AINDA VEIO COM DEFEITO.......!","1,5","1,5",商品超过约定日期才收到，且到货后有缺陷
+49,8186bdc146b4f2d9b977c12a9df0fccd,31c8528678f80f4491b0e2634ae8940e,2,"Atraso na entrega(a qual já possuía um prazo mais do que suficiente), logo não consigo avaliá-lo positivamente, muito menos opinar a favor da transportadora.",1,1,评论抱怨配送延迟，原定时间已足够却仍未按时送达。
+50,fd0e9a11be316aa6ee89027c31ab335a,f5e8dd6f3cfc89bc152991875437aaa2,1,"Fiz a compra de 2 unidades do produto porém apenas 1 foi entregue. A empresa indicou que fez 100% da entrega.
+Ainda aguardo o recebimento.",2,2,购买2件但只收到1件，属于少发/漏发
+51,3501d2e2fea499902cb6fb754f13146d,3f191c1edeb80678998ec0c8683cefcc,1,"PESSIMO, PERGUNTEI VÁRIAS VEZES SOBRE A ENTREGA E NINGUÉM POSICIONA","1,7",7,用户多次询问配送情况但无人回复，属于客服联系不上
+52,7124a152696cce2c9503d4e20a1785db,c99bf9bf2c26094ff4786e6bf919d14c,1,"Queria um telefone pra contato, comprei dois cofres só chegou um e sem nota fiscal ",2,"2,8",买了两个保险箱只收到一个，属于少发；同时未收到发票，归为其他问题。
+53,6f3b92bc69cad12ef6c9f9e1d4768c44,cf17fd8b07b3f141a06b72954410e285,2,Produto estava em falta no estoque e a empresa não checou.,8,8,评论提到商品缺货且公司未核查库存，不属于其他具体问题类别。
+54,21d7390335f52f42a7a4edf6eef4a5c7,d181dfce5d8355bc51c2370c6910d4bc,2,Não recebi o toner preto,1,1,用户表示没有收到黑色碳粉盒，属于未收到商品
+55,26512e438c66bb57768bab82684f867b,39730c5c34015c1ef1cc42708264b56d,1,"Não gostei
+Faltou mercadoria",2,2,评论提到商品缺少/漏发，属于少发漏发
+56,cd1eab92787417aea80938de8098e860,593732bc7133b31a809050a3df77f34c,2,"Acho muito bom esse tipo de serviço facilita muito a vida das pessoas, mais tem ter mais agilidade na entrega.",1,1,评论认可服务但抱怨配送不够迅速，属于送达延迟/配送速度问题
+57,7e77ca656c70c554cede9c0d2aeed151,d5126e0c4988c70a3808041792214dcc,1,"Espero que chegue o produto estou aguardando , ainda não chegou.",1,1,用户表示还在等待，商品尚未收到，属于未收到/送达延迟
+58,94665539f5507a993b0ff44a7d13dd98,ffd4172b5df0c16bbd973c196b09bcd9,1,"Já faz 1 mês que fiz a compra e ainda não chegou, não consigo nem rastrear. 
+Espero que resolvam meu problema. ",1,1,下单一个月仍未收到货，属于未收到/送达延迟
+59,0cd96cc6f2fb57d0276dde659e920165,1454fd9eec5f4140bdbea254680361e5,1,"O produto é de péssima qualidade, a imagem é descrição não são fiéis ao produto","4,5","4,5",商品质量极差，且图片和描述与实物不符
+60,d1612f2df440afddd343d6788628fb28,d34b43bca6cc1cb6d49c06d6090770eb,1,quero receber mminha compra,1,1,用户表示想收到自己购买的商品，说明尚未收到，属于未收到/送达问题
+61,9d8195fde69606587b1bc4a3ecf16aaf,3b550d526029241325a94aa30a60cff0,1,O produto enviado não é o que foi adquirido. Quero meu dinheiro de volta,3,3,收到的商品不是所购买的商品，属于发错货；仅提出退款请求，未说明售后失败或拖延，不标7
+62,8341c8e936454d7de07e3c4e0381057d,b4abb149fb1b128bbd21db842a86e891,1,Pedi duas unidades do produto e recebi somente uma. Alem disso recebi outro produto que nao comprei. Tento mandar mensagem e ninguem responde,"2,3,7","2,3,7",订购两件只收到一件，属于少发；还收到未购买的其他商品，属于发错货；尝试联系客服无人回复，属于客服问题。
+63,9b20c48513df9e39a384bd38c15c2047,2e5c056e25f127f8554fa6a2ee1336a9,1,O produto não chegou e já faz mais de um mês que fiz o pedido!,1,1,下单超过一个月仍未收到商品，属于未收到或送达延迟
+64,0d83bfbb6bae15538fd48a47d5afdc8f,893164a028d4c803fb8a597327b48488,1,"Conforme foto do produto, comprei um frasco com 120 cápsulas, mas foi-me entregue somente um frasco com 60 cápsulas.",4,3,订购120粒装却收到60粒装，规格与订单不符，属于发错货
+65,61e2f7733e5ccfd9630bcc6c3698a4f1,2dceebebb97f2c0222194e9c24c28296,1,"Fiz a comprar de does relógio de pulso e não recebi a mercadoria 
+ Relógio Feminino De Pulso Ieke Malha Colorida - Branco",1,1,评论说购买了手表但未收到商品，属于未收到货
+66,ca9853979ac3a2d2aee5dd9f8e570927,ec63c198f700051fb0a74c40a757af0e,1,Outro produto foi entregue no lugar,3,3,收到的商品与订单不符，属于发错货
+67,3399962f94ed54b5eec3a236f35274e4,ffbcdac3da2c2f23b699666818b0d38c,2,Nunca havia adquirido um relógio da Diesel. Logo nos primeiros dias de uso o botão do meio se soltou e por pouco eu não o perdi. Sinceramente tenho dúvidas acerca da originalidade do item. ,5,5,使用几天后中间按钮就脱落，属于商品缺陷；只是对真伪有疑虑，未明确说与描述不符。
+68,3ca199e57f96c2a2b4fdd7bb1434aa83,85a3602f48becf78584dbd58d22f85b7,2,Chegou o produto mas está faltando 1 paguei dois e chegou 1 😣.,2,2,付款买了两件但只收到一件，属于少发/漏发
+69,f68c666d0da3fa80119264a11c1a5ad4,ed13c5b7c83748412c1331493e28e36e,2,"O produto não é adequado ao que condiz na descrição. 
+",4,4,商品与描述不符，属于与描述不符
+70,cc8884cc9cc09dd7b9cd6a762c7f19fd,97bb7e5d1176813061e12ca420b8a8e2,1,"Super atrasado a entrega , prometeram em 12 dias e até agora não chegou 02/01/2018 era um presente , agora já perdeu o sentido ",1,1,承诺12天送达但至今未收到，属于送达延迟/未收到
+71,efef5a00aac989951350619e06681dcb,ac2b7c522d811acba0aa270ed3e112e4,1,"Loja lixo, entregaram produto errado, mandei email pro stark reclamando, nem obtive resposta, bela consideraçao por um cliente de tantos anos, qro ver o valor na minha fatura, ja q sao diferentes!","3,7","3,7,8",收到错误商品，发邮件投诉无人回复，且提到发票金额不一致
+72,0c82dcc9170b7520b0981bb02c0da37f,287ee962359c54437cc32cabcce0f87b,2,Comprei cabides e os ganchinhos dos cabides vieram alguns quebrados. A caixa de papelao estava bem detonada com as laterais rasgadas. Quando fui abrindo a caixa os ganchinhos ja foram caindo no chao,6,6,包装箱严重破损，部分衣架挂钩到货时已断裂，属于运输破损/包装问题
+73,4a923f3f8563931594d2da27e910940f,06bb67936cfa5ac3f449e4f6733de4b1,2,Não é como a foto!,4,4,商品与图片不一致，属于与描述不符
+74,15fba24543d5d26a19f6f72c446f1af8,d6620af765cb60ea04b7cc1a22c37a0c,1,"Ainda não recebi meu produto e claro,já paguei por ele ",1,1,用户表示尚未收到商品，且已经付款，属于未收到或送达延迟
+75,6a0ea1c4d0fcea9eb1447b019c31ffb4,35bf7f86bc7add201e5b6573052157f0,1,Não veio a cor que solicitei marquei azul e veio vermelho estou insatisfeito com o vendedor gostaria de saber qual será a solução que vcs vão me dar,3,3,订的是蓝色却收到红色，属于发错货
+76,ee58a3234d651611d107dc7c99a75bb9,d19ac15d2d6a66a837bc8bff474218b2,1,"Cancelei ha tempos, enviaram mesmo assim e nao estornaram os valores",7,7,已取消订单却仍发货，且未退款，属于订单取消和退款售后失败
+77,b16247154a847628ebdb31518a9d7a39,0f559863677fb17eed36c4374e198a93,1,"Ate o momento alnada do meu pruduto, gostaria de saber quando que vou receber...",1,1,评论说至今还没收到商品，并询问何时能收到，属于未收到/送达延迟
+78,8d51863e3a6ef4a698ac4bc74ea960e0,5e0238f4a57ea0c2a69aad35627b57f0,1,Recebi somente 1 unidade e pague por 2.,2,2,付款买了2件但只收到1件，属于少发/漏发
+79,fa28667d64c3526c85674beacea83950,becc93b30e0f67e640b3a43ef08f396d,2,Recebi o produto antes do prazo mas veio com defeito no zíper.,5,5,商品提前收到，但拉链有缺陷，属于商品缺陷
+80,bc26bf91cb762a0bc870f0e195f42251,4317fe882d992cda2fb3d51baeb2751c,1,"Fiz encomenda do produto cancelaram meu pedido, não consigo acessar o vale que está bloqueado, e sem falar que continua disponível no site, acho uma falta de respeito, quero saber como vou receber.",7,7,订单被取消，代金券被锁定无法访问，属于订单取消和售后代金券问题
+81,6ec426df90098ed69f5eaf251cc47432,8c81e36bea73764b1c079c3920f6879f,1,Produto com defeito! ,5,5,评论称商品有缺陷，属于商品缺陷
+82,9c86a084c6544e3a7434ea6d3b2fff01,dbd10344065568345dadbd904bb51dc1,1,Já abri um chamado e não tenho resposta de quando terei o produto comprado.,"1,7",7,已开单但客服未回复何时能拿到商品，属于客服/售后问题
+83,7fba5b82aad271ac0c41b3c12beabc51,502d7a6ef832644f5208f0af59e4c5bb,2,"Solicitei dois varão para cortina, mas só veio um. ",2,2,订了两根窗帘杆，只收到一根，属于少发/漏发
+84,eacd72e18cfbf78bac35cc55d9c6109b,4329e268690f8c53ef682851d4b16083,1,"Fiz uma compra na loja paguei pelo frete para receber o produto na minha casa, e não ter que pegar nos correios, se eu quisesse buscar o produto compraria em uma loja física",8,1,用户付了运费要求送货上门，却需要去邮局自取，属于配送/未按约定送达问题
+85,28053bd1553ef05656854c1c6309b60e,a17ad45b2b8e8e73cdcc323bd9b90b49,1,"Infelizmente minha avaliaçao e negativa pq o controle veio com defeito, ele funciona mas a tampa da caixa das pilhas nao fecha, esta sem pressao de modo que dificulta o manuseio, espero a troca",5,5,商品收到时就有缺陷，电池仓盖无法合上，影响使用，属于商品缺陷
+86,51185d0df3927488308d31360c734f5a,010e7dda85fff564e8b7076ae3928efb,1,"vou avaliar quando receber meu outro produto.Comprei dois do mesmo e recebi um.Porttanto, não considero que o pedido foi entregue",2,2,买了两个同款但只收到一个，属于少发/漏发
+87,54654a46355a6ab1c5e79d71a6cb3cad,7a2c8013c9c8e38f617beace0522b596,1,não gostei do produto. muito fraco. não valeu a pena. você tira o produto da embalagem e no outro dia não tem mais o cheiro,5,5,用户抱怨产品效果很差，拆封后第二天就没有气味了，属于商品效果差/缺陷
+88,f71d2260e53c63c6b4b726c178a13e9b,2f722ee8f3d3db0d19cee8ebea6fa69e,1,"Enviaram as colchas separadas, tive q abrir reclamaçao porque chegou 1 nota fiscal c o valor das 2,contudo só chegou 1.Depois de 2 dias entregaram a segunda, ou seja, não faz sentido.",2,2,订单包含两件被子但最初只收到一件，需投诉后才在两天后补送第二件，属于少发/漏发。
+89,6d9e026755d4aec54a2334e9b6d35b08,d16f9a68b1aa5e1e872a86a474930835,1,Ainda não recebi o cinto.,1,1,评论称仍未收到腰带，属于未收到货
+90,496ae0a72bc80f54d912441336d93cba,12c35b9467a007081f7b545b5f8fb15b,1,"Comprei um cartão micro SD que não veio igual o da descrição nem da imagem, e o pior é que mesmo assim não funcionou e veio corrompido. Estou no aguardo de uma resposta para troca.","4,5","4,5",商品与描述和图片不符，且无法使用、已损坏，属于与描述不符和商品缺陷。
+91,c5e7f2a0343daa2d502c2318af775e6a,779078ac80552fa400b11c285d16e4fa,1,VENDARAM O QUE NAO TINHA E ATÉ AGORA NAO ME RESSARCIRAM. CANCELARAM O PEDIDO.COMPREI EM OUTRA LOJA O BRINQUEDO,7,7,卖家取消订单后至今未退款，属于订单取消及退款售后问题
+92,ad844b27d07c66f6443ab62db7c0d37c,59dc078740135e14b746b30b397545f0,1,Recebi o produto erredo,3,3,收到的是错误商品，属于发错货
+93,3bce32aabb9d3e15bdc728348c0216be,4e50ee5ebc37a770f257082adfbeff18,1,Não recebi esse produto apesar de informar que a entrega fói feita. O que recebi foi outro pedido referente ao teclado wifi que no pedido afirma ainda não ter sido entregue. Houve erro na entrega ,"1,3",3,用户未收到本订单商品，却收到了另一笔订单的WiFi键盘，属于发错货/配送错误。
+94,2b76a807f1a34d80148fa3c5bc4ca71c,1e2b316a698bd9c867c536b99355d37d,1,Não recebi o produto.,1,1,评论表示没有收到商品，属于未收到货。
+95,edb8423465e501f510c97eb1e0f80e72,b1829b9fc61d2f28d8668cd5bde29e3f,2,"O copo não é exatamente como está na foto, apesar de avisar que é de plástico semi transparente, também se fala que a tampa é preta e ao contrário disso a tampa é branca.",4,4,商品与图片/描述不符，描述称杯盖为黑色但收到白色，属于与描述不符
+96,c281aaf79e59e0999ffd665378037841,db72d4b9dccc8768cb8691e888ae7f5f,1,Não recebi o produto. Ainda no aguardo.,1,1,评论表示尚未收到商品，仍在等待，属于未收到/送达延迟
+97,3a042894853ccc7ef4136a1eca883981,1170def5f575ee492231108cb5185570,1,"O produto não foi entregue, retornou ao destinatário há 15 dias e ainda não me procuraram para devolver o dinheiro, não consigo falar com ninguém pelo sac","1,7","1,7",商品未送达并已退回发件人15天，仍未退款且联系不上客服，属于未收到和售后客服问题
+98,8ca20343768523e9ca3d863c7ac5a5bc,c614a7bb512bf1ddf2571743587c8cad,2,Ainda não recebi o produto ,1,1,评论表示仍未收到商品，属于未收到/送达延迟。
+99,9b3af874b361f237146931ef16d98cdb,99cba2721b39974a1f5045162748e2fd,2,boa relação custo beneficio porem qualidade não tão boa,5,8,仅笼统评价质量不太好，未说明具体缺陷或与描述不符
+100,a8ccbd14bb411950b1ddcc0ae3481280,7c7dc1f3affc0d38b97ea22a8aeedb82,1,"Recebi apenas o copo térmico personalizado, mas a placa decorativa não.",2,2,只收到了定制保温杯，装饰牌未收到，属于少发/漏发

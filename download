@@ -1,0 +1,7 @@
+.env
+*.key
+__pycache__/
+.ipynb_checkpoints/
+# 原始数据请从 Kaggle 下载，不放进仓库
+olist_*.csv
+*.db
